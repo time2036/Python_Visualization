@@ -1,9 +1,7 @@
 # Learning Python for Data Analysis And Visualization
 
 ### **Instructor:** [Jose Portilla](https://www.linkedin.com/in/jmportilla)
-### **Source:**     [udemy](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview)
-### **Notebooks:**  [github](https://github.com/jmportilla/Udemy-notes/tree/master/)
-
+### **Course:**     [udemy](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview)
 
 
 Learn python and how to use it to analyze,visualize and present data. Includes 
