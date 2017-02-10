@@ -1,4 +1,5 @@
 # Learning Python for Data Analysis And Visualization
+![GitHub Logo](https://github.com/time2036/Python_Visualization/blob/master/course_pict.png)
 
 ### **Instructor:** [Jose Portilla](https://www.linkedin.com/in/jmportilla)
 ### **Course:**     [udemy](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview)
