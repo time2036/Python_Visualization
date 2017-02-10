@@ -8,7 +8,7 @@
 
 Learn python and how to use it to analyze,visualize and present data. Includes 
 
-1. Numpy
+1. [Numpy](https://github.com/time2036/Python_Visualization/blob/master/1_Numpy.ipynb)
 1. Pandas
 1. Data Wrangling
 1. Data Visualization
