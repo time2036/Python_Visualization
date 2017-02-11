@@ -8,9 +8,9 @@
 Learn python and how to use it to analyze,visualize and present data. Includes 
 
 1. [Numpy](https://github.com/time2036/Python_Visualization/blob/master/1_Numpy.ipynb)
-1. Pandas
-1. Data Wrangling
-1. Data Visualization
+1. [Pandas](https://github.com/time2036/Python_Visualization/blob/master/2_Pandas.ipynb)
+1. [Data Wrangling](https://github.com/time2036/Python_Visualization/blob/master/3_Data%20Wrangling.ipynb)
+1. [Data Visualization](https://github.com/time2036/Python_Visualization/blob/master/4_Data%20Visualization.ipynb)
 1. Machine Learning
 1. Appendix: Statistics Overview
 1. Appendix: SQL and Python
