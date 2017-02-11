@@ -16,3 +16,10 @@ Learn python and how to use it to analyze,visualize and present data. Includes
 1. Appendix: SQL and Python
 1. Appendix: Web Scraping with Python
 1. Appendix: Python Special Offers
+
+Projects:
+
+0. Intro to Data Projects
+1. Titanic
+2. Stock Market Analysis
+3. Election Analysis
