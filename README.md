@@ -19,7 +19,7 @@ Learn python and how to use it to analyze,visualize and present data. Includes
 
 Projects:
 
-* Intro to Data Projects
-* Titanic
-* Stock Market Analysis
+* [Intro to Data Projects](https://github.com/time2036/Python_Visualization/blob/master/Project_0_Intro.ipynb)
+* [Titanic](https://github.com/time2036/Python_Visualization/blob/master/Project_1_Titanic%20Survival.ipynb)
+* [Stock Market Analysis](https://github.com/time2036/Python_Visualization/blob/master/Project_2_Stock%20Market%20Analysis.ipynb)
 * Election Analysis
