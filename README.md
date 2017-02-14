@@ -22,4 +22,4 @@ Projects:
 * [Intro to Data Projects](https://github.com/time2036/Python_Visualization/blob/master/Project_0_Intro.ipynb)
 * [Titanic](https://github.com/time2036/Python_Visualization/blob/master/Project_1_Titanic%20Survival.ipynb)
 * [Stock Market Analysis](https://github.com/time2036/Python_Visualization/blob/master/Project_2_Stock%20Market%20Analysis.ipynb)
-* Election Analysis
+* [Election Analysis](https://github.com/time2036/Python_Visualization/blob/master/Project_3_Election%20Analysis.ipynb)
