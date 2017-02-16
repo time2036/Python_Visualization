@@ -12,6 +12,8 @@ Learn python and how to use it to analyze,visualize and present data. Includes
 1. [Data Wrangling](https://github.com/time2036/Python_Visualization/blob/master/3_Data%20Wrangling.ipynb)
 1. [Data Visualization](https://github.com/time2036/Python_Visualization/blob/master/4_Data%20Visualization.ipynb)
 1. Machine Learning
+    - Introduction to Machine Learning with SciKit Learn
+    - Supervised Learning - Linear Regression
 1. Appendix: Statistics Overview
 1. Appendix: SQL and Python
 1. Appendix: Web Scraping with Python
