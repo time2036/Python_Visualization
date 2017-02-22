@@ -14,6 +14,8 @@ Learn python and how to use it to analyze,visualize and present data. Includes
 1. Machine Learning
     - Introduction to Machine Learning with SciKit Learn
     - Supervised Learning - Linear Regression
+    - Supervised Learning - Logistic Regression
+    - Multi-Class Classification - Logistic Regression & kNN
 1. Appendix: Statistics Overview
 1. Appendix: SQL and Python
 1. Appendix: Web Scraping with Python
