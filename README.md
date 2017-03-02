@@ -19,7 +19,7 @@ Learn python and how to use it to analyze,visualize and present data. Includes
 1. Appendix: Statistics Overview
 1. Appendix: SQL and Python
 1. [Appendix: Web Scraping with Python](https://github.com/time2036/Python_Visualization/blob/master/Appendix_Web%20Scraping.ipynb)
-1. Appendix: Python Special Offers
+
 
 Projects:
 
