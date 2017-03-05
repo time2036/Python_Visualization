@@ -18,7 +18,7 @@ Learn python and how to use it to analyze,visualize and present data. Includes
     - [Supervised Learning - Logistic Regression & kNN](https://github.com/time2036/Python_Visualization/blob/master/5d_Multi-Class%20Classification_LogisticRegression_kNN.ipynb)
     - [Support Vector Machines](https://github.com/time2036/Python_Visualization/blob/master/5e_Support%20Vector%20Machines.ipynb)
     - [Supervised Learning - Naive Bayes](https://github.com/time2036/Python_Visualization/blob/master/5f_Supervised%20Learning_Naive%20Bayes.ipynb)
-    - [Decision Trees and Random Forests](https://github.com/time2036/Python_Visualization/blob/master/5g_Decision%20Trees%20and%20Random%20Forests.ipynb)
+    - [Decision Trees and Random Forests](https://github.com/time2036/Python_Visualization/blob/master/5g_Decision%20Trees%20and%20Random%20Forests.ipynb)
     - [NLP (Natural Language Processing)](https://github.com/time2036/Python_Visualization/blob/master/5h_NLP%20(Natural%20Language%20Processing).ipynb)
 1. [Appendix: Statistics Overview](https://github.com/jmportilla/Statistics-Notes)
 1. [Appendix: SQL and Python](https://github.com/jmportilla/SQL-Appendix)
