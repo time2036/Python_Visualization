@@ -15,7 +15,11 @@ Learn python and how to use it to analyze,visualize and present data. Includes
     - [Introduction to Machine Learning with SciKit Learn](https://github.com/time2036/Python_Visualization/blob/master/5a_ML_Introduction%20to%20Machine%20Learning%20with%20SciKit%20Learn.ipynb)
     - [Supervised Learning - Linear Regression](https://github.com/time2036/Python_Visualization/blob/master/5b_Supervised%20Learning%20-%20Linear%20Regression.ipynb)
     - [Supervised Learning - Logistic Regression](https://github.com/time2036/Python_Visualization/blob/master/5c_Supervised%20Learning%20-%20Logistic%20Regression.ipynb)
-    - [Multi-Class Classification - Logistic Regression & kNN](https://github.com/time2036/Python_Visualization/blob/master/5d_Multi-Class%20Classification_LogisticRegression_kNN.ipynb)
+    - [Supervised Learning - Logistic Regression & kNN](https://github.com/time2036/Python_Visualization/blob/master/5d_Multi-Class%20Classification_LogisticRegression_kNN.ipynb)
+    - Support Vector Machines
+    - Supervised Learning_Naive Bayes
+    - Decision Trees and Random Forests
+    - NLP (Natural Language Processing)
 1. Appendix: Statistics Overview
 1. Appendix: SQL and Python
 1. [Appendix: Web Scraping with Python](https://github.com/time2036/Python_Visualization/blob/master/Appendix_Web%20Scraping.ipynb)
